@@ -5,6 +5,8 @@ Analyze your WhatsApp chats like never before! This interactive Python-based web
 file and instantly visualize rich insights like user behavior, emoji usage, peak activity times, and even **sentiment analysis** using NLP.
 
 👉 [Try it out!](https://github.com/TechSahil404) *(Deploy it via Streamlit Cloud or run locally)*
+## 🎥 Demo Video
+[Download/View Demo Video](demo.mp4)
 
 ---
 
